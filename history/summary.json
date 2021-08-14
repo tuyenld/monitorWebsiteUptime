@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.giaymoi.vn",
     "slug": "giaymoi-vn",
     "status": "down",
-    "uptime": "3.23%",
-    "uptimeDay": "3.23%",
-    "uptimeWeek": "3.23%",
-    "uptimeMonth": "3.23%",
-    "uptimeYear": "3.23%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-14": 0
+      "2021-08-14": 113
     }
   },
   {
@@ -24,17 +24,19 @@
     "url": "https://giaymoi.shop",
     "icon": "https://favicons.githubusercontent.com/giaymoi.shop",
     "slug": "giaymoi-shop",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 5755,
     "timeDay": 5755,
     "timeWeek": 5755,
     "timeMonth": 5755,
     "timeYear": 5755,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-14": 0
+    }
   }
 ]
