@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-15": 25,
+      "2021-08-15": 131,
       "2021-08-14": 1379
     }
   },
@@ -25,17 +25,19 @@
     "url": "https://giaymoi.shop",
     "icon": "https://favicons.githubusercontent.com/giaymoi.shop",
     "slug": "giaymoi-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4195,
-    "timeDay": 4195,
+    "timeDay": 3415,
     "timeWeek": 4195,
     "timeMonth": 4195,
     "timeYear": 4195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-15": 0
+    }
   }
 ]
