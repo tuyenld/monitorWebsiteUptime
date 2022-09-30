@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.giaymoi.vn",
     "slug": "giaymoi-vn",
     "status": "down",
-    "uptime": "67.10%",
+    "uptime": "66.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.24%",
+    "uptimeYear": "63.96%",
     "time": 3002,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2971,
+    "timeYear": 2962,
     "dailyMinutesDown": {
-      "2022-09-29": 70,
+      "2022-09-30": 83,
+      "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
@@ -184,7 +185,7 @@
     "icon": "https://favicons.githubusercontent.com/giaymoi.shop",
     "slug": "giaymoi-shop",
     "status": "down",
-    "uptime": "0.26%",
+    "uptime": "0.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -195,7 +196,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-29": 70,
+      "2022-09-30": 83,
+      "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
       "2022-09-26": 1440,
@@ -558,8 +560,7 @@
       "2021-10-04": 1440,
       "2021-10-03": 1440,
       "2021-10-02": 1440,
-      "2021-10-01": 1440,
-      "2021-09-30": 1440
+      "2021-10-01": 1440
     }
   }
 ]
