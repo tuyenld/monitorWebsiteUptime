@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.giaymoi.vn.ico",
     "slug": "giaymoi-vn",
     "status": "down",
-    "uptime": "54.83%",
+    "uptime": "54.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "39.09%",
-    "time": 2969,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "38.81%",
+    "time": 2973,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2855,
+    "timeYear": 2853,
     "dailyMinutesDown": {
-      "2022-12-30": 43,
+      "2022-12-31": 41,
+      "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
       "2022-12-27": 1440,
@@ -267,7 +268,7 @@
     "uptime": "0.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -275,7 +276,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-30": 43,
+      "2022-12-31": 41,
+      "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
       "2022-12-27": 1440,
@@ -638,8 +640,7 @@
       "2022-01-04": 1440,
       "2022-01-03": 1440,
       "2022-01-02": 1440,
-      "2022-01-01": 1440,
-      "2021-12-31": 1440
+      "2022-01-01": 1440
     }
   }
 ]
